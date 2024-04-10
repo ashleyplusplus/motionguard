@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#d84315</color>
-    <color name="colorPrimaryDark">#bf360c</color>
-    <color name="colorAccent">#ff6e40</color>
+    <color name="colorPrimary">#559D9D</color>
+    <color name="colorPrimaryDark">#427B7B</color>
+<!--    <color name="colorAccent">#7BC0E5</color>-->
+
+<!--    <color name="colorRecieveText">#00FF00</color>-->
+<!--    <color name="colorSendText">#82CAFF</color>-->
+<!--    <color name="colorStatusText">#FFDB58</color>-->
+<!--</resources>-->
+
+<!--<resources>-->
+<!--    <color name="colorPrimary">#d84315</color>-->
+<!--    <color name="colorPrimaryDark">#bf360c</color>-->
+    <color name="colorAccent">#B76FD6 </color>
 
     <color name="colorRecieveText">#00FF00</color>
     <color name="colorSendText">#82CAFF</color>
